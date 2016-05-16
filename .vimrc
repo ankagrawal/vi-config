@@ -49,6 +49,7 @@ set textwidth=79
 set expandtab
 set autoindent
 set fileformat=unix
+set colorcolumn=80
 
 " Enable folding
 set foldmethod=indent
